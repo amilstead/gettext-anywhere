@@ -1,0 +1,3 @@
+* Modify any translations inside the locale directory (or add your own with pybabel).
+* Upload translations using the helper script.
+* Run s3.py with a bucket-name

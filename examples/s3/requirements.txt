@@ -1,0 +1,5 @@
+Babel==1.3
+Jinja2==2.7.3
+awscli==1.7.36
+boto==2.38.0
+gettext-anywhere==1.0.0

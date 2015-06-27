@@ -1,0 +1,8 @@
+1.0.0
+--------------------------------------------------------------------------------
+Initial package published.
+
+* Provides interface for writing a custom file handler.
+* Adds functionality for patching `gettext.translation`.
+* Adds default RegularFileHandler class implementation.
+* Adds optional S3FileHandler class implementation.
