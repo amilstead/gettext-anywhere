@@ -31,7 +31,7 @@ Or easy_install:
     easy_install boto
 
 ## Usage ###
-This package patches gettext's `translation` functionality in order to allow for discovering message catalogs that do not exist on a local file system.
+This package patches gettext's `translation` functionality in order to allow for discovering message catalogs that may not necessarily exist on a local file system.
 
 As a result, after a registration command is performed, no additional usage of the library is necessary.
 
