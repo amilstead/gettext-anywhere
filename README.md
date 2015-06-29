@@ -111,6 +111,6 @@ A quick one would be:
     print spanish.gettext("Some translated string!")
 
 ## Contributing ##
-* For the repository.
+* Fork the repository.
 * Make changes.
 * Submit a pull request.
